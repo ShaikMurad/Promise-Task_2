@@ -1,0 +1,29 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #9499b7;
+    text-align: center;
+    vertical-align: middle;
+  }
+  .container {
+    width: 500px;
+    
+    border-bottom: 8px;
+    margin: 60px auto;
+    padding: 20px;
+    padding-top: 10px;
+    border-radius: 8px;
+  }
+  button {
+    background-color: rgb(37, 221, 187);
+  }
+  
+  button:hover {
+    background-color: rgb(16, 194, 31);
+  }
+  .heading{
+    color: rgba(197, 77, 21, 0.868);
+  }
+  body{
+    background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-1144982182.jpg");
+    background-size: 90%;
+  }
